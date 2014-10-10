@@ -12,22 +12,34 @@
 	<dict>
 		<key>7B371F294DF361C983B981F3D9E9BBB6FEB4D894</key>
 		<string>gitlab.atomicobject.com:faurecia-biolens/faurecia-demo-ios.git</string>
+		<key>9F841C895B6C288F965B9D262C4EB07ED7DA897A</key>
+		<string>github.com:FaureciaDev/Faurecia-BioFit-Demo-iOS.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>FaureciaOpenSeatDemo/FaureciaBioFitDemo.xcodeproj</string>
+	<string>FaureciaBioFitDemo/FaureciaBioFitDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>7B371F294DF361C983B981F3D9E9BBB6FEB4D894</key>
+		<string>../../../../faurecia-demo-ios</string>
+		<key>9F841C895B6C288F965B9D262C4EB07ED7DA897A</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>gitlab.atomicobject.com:faurecia-biolens/faurecia-demo-ios.git</string>
+	<string>github.com:FaureciaDev/Faurecia-BioFit-Demo-iOS.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7B371F294DF361C983B981F3D9E9BBB6FEB4D894</string>
+	<string>9F841C895B6C288F965B9D262C4EB07ED7DA897A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9F841C895B6C288F965B9D262C4EB07ED7DA897A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Faurecia-BioFit-Demo-iOS</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
